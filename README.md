@@ -1,5 +1,5 @@
 # Technical_writing
-how do we write a readme file ?explain more on the syntax and structure
+how do we write a readme file majoring on the syntax and structure
 Basic Structure of a README File
 Most README files follow this general structure (written in Markdown format):
 # Project Title
